@@ -1,3 +1,4 @@
 {
-  "mongoURI":"mongodb+srv://sarthak123:sarthak123@devconnector-vhdbm.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI":"mongodb+srv://sarthak123:sarthak123@devconnector-vhdbm.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret":"mysecrettoken"
 }
